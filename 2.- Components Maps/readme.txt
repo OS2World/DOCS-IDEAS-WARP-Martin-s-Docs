@@ -1,0 +1,1 @@
+Files with the .mm extesiones can be opened with FreeMind (Java app)

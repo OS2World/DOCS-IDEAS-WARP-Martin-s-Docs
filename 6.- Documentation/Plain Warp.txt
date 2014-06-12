@@ -1,0 +1,14 @@
+Plain Warp was a attempt to see which are the most reduced OS/2 Warp 4.52 can be runned on a Virtual Machine. 
+
+The goal was to run OS/2.
+- Boot the OS
+- Run the basic WPS
+- Mouse and Keyboard support.
+
+This OS/2 is very useless, but this was only a test to see which are the files that are required for OS/2 to boot.
+
+Since part of my goal is also to one day have a complete OS/2 Warp clone I had marked the files that can be replaced, or that already a replacement had been created. 
+
+- Green: Replacement Available
+- Yellow: Possible replacement available.
+- No color: No replacement known. 
