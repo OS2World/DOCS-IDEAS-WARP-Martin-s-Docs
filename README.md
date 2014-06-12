@@ -1,7 +1,7 @@
-DOCS-ARCHITECTURE-Martin-s-Docs
+DOCS-IDEAS-WARP-Martin-s-Docs
 ===============================
 
-This are Martin Iturbide documents about OS/2 Architecture. 
+This are Martin Iturbide documents about OS/2 Architecture.  Some ideas about OS/2 documentation and some Qt4 GUI idea examples. 
 
 LICENSE
 ===============
@@ -11,7 +11,9 @@ COMPILE TOOLS
 ===============
 * Not compiled.
 * OpenOffice
-* ArgoUML
+* ArgoUML (.zargo)
+* FreeMind (.mm)
+* Qt Designer
 
 AUTHORS
 ===============
