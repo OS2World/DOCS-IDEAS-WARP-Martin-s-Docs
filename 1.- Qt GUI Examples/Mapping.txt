@@ -1,0 +1,16 @@
+CLICK
+Primary Click
+Secondary Click
+Middle Click
+
+
+
+
+SPECIAL FUNCTIONS
+- Display Window List
+- Drag Object
+- Display Pop-Ups Menus
+- Edit Tittle Text
+- Volume Up
+- Volume Down
+- Volume Mute
