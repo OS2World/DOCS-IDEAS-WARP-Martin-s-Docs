@@ -1,7 +1,7 @@
 CLICK
-Primary Click
-Secondary Click
-Middle Click
+- Primary Click
+- Secondary Click
+- Middle Click
 
 
 
@@ -14,3 +14,9 @@ SPECIAL FUNCTIONS
 - Volume Up
 - Volume Down
 - Volume Mute
+
+
+
+REFERENCES
+- http://www.microsoft.com/hardware/en-us/help/support/how-to/mouse/default-assignments
+- https://code.google.com/p/selenium/wiki/AdvancedUserInteractions
